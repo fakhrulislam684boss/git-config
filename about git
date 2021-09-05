@@ -1,0 +1,6 @@
+//  for first time git config
+
+ git config --global user.name "Md Fakhrul islam Nayan"
+ $ git config --global user.email "1nayan122@gmail.com"
+ git config --list 
+
